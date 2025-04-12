@@ -1,0 +1,3 @@
+This project is a basic Recipe Website built using HTML and CSS, aimed at understanding the structure and styling of a website using core front-end technologies.
+
+The main objective of this project is to provide a hands-on way to learn and understand how HTML and CSS work together to create a visually organized and user-friendly web page. By building this recipe website, learners can explore how to structure content using semantic HTML and style it effectively with CSS.
